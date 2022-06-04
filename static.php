@@ -1,5 +1,5 @@
 <?php
-echo"kirti vardhan ajmani";
+echo"ashima";
 function myfun()
 {
     static $x=10;
